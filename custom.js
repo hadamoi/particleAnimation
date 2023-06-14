@@ -33,7 +33,7 @@ let item;
 let section = document.querySelector('section');
 
 // <div class="textItem"></div> 
-let totalNumber = 100;
+let totalNumber = 148;
 for (let i = 0; i < totalNumber; i++) {
   item = document.createElement('div');
   item.setAttribute('class', 'textItem');
