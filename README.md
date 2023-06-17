@@ -2,10 +2,10 @@
 Create numbers and place them in different motions. <br />
 Click the buttons below and watch the motion to see the numbers change dramatically.
 
-### 🧸 Built with
+#### 🧸 Built with
 <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white">
 
-### ✔️ Things to remember
+#### ✔️ Things to remember
 ```sh
 let bgColorArray = ['#2192FF', '#ea204f', '#38E54D'];
 ```
